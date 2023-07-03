@@ -1,0 +1,543 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "price": 200,
+      "price_des": 0,
+      "rank_last_week": 6,
+      "weeks_on_list": 11,
+      "publisher": "Doubleday",
+      "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+      "title": "LESSONS IN CHEMISTRY",
+      "author": "Bonnie Garmus",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+      "book_image_width": 328,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/038554734X?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FLESSONS%252BIN%252BCHEMISTRY%252FBonnie%252BGarmus%252F9780385547345&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DLESSONS%252BIN%252BCHEMISTRY%252BBonnie%252BGarmus"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385547345&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DLESSONS%2BIN%2BCHEMISTRY"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385547345%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DLESSONS%2BIN%2BCHEMISTRY%2BBonnie%2BGarmus%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "price": 600,
+      "rank_last_week": 3,
+      "weeks_on_list": 14,
+      "publisher": "Scribner",
+      "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+      "title": "FAIRY TALE",
+      "author": "Stephen King",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+      "book_image_width": 329,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/1668002175?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668002175?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668002179?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668002179"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFAIRY%252BTALE%252FStephen%252BKing%252F9781668002179&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFAIRY%252BTALE%252BStephen%252BKing"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781668002179&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFAIRY%2BTALE"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781668002179%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFAIRY%2BTALE%2BStephen%2BKing%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "rank_last_week": 1,
+      "price": 600,
+      "price_des": 500,
+      "weeks_on_list": 2,
+      "publisher": "Minotaur",
+      "description": "The 18th book in the Chief Inspector Gamache series. When an attic room that was sealed off 160 years ago is opened, an old enemy returns.",
+      "title": "A WORLD OF CURIOSITIES",
+      "author": "Louise Penny",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250145291.jpg",
+      "book_image_width": 329,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/1250145295?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250145295?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250145291?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250145291"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FA%252BWORLD%252BOF%252BCURIOSITIES%252FLouise%252BPenny%252F9781250145291&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DA%252BWORLD%252BOF%252BCURIOSITIES%252BLouise%252BPenny"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250145291&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DA%2BWORLD%2BOF%2BCURIOSITIES"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250145291%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DA%2BWORLD%2BOF%2BCURIOSITIES%2BLouise%2BPenny%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "price": 60,
+      "price_des": 50,
+      "rank_last_week": 4,
+      "weeks_on_list": 11,
+      "publisher": "Little, Brown",
+      "description": "Detective Alex Cross and the true-crime author Thomas Tull search for a serial killer known as the Family Man.",
+      "title": "TRIPLE CROSS",
+      "author": "James Patterson",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499187.jpg",
+      "book_image_width": 331,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/0316499188?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316499188?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316499187?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499187"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTRIPLE%252BCROSS%252FJames%252BPatterson%252F9780316499187&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTRIPLE%252BCROSS%252BJames%252BPatterson"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316499187&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTRIPLE%2BCROSS"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316499187%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTRIPLE%2BCROSS%2BJames%2BPatterson%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "price": 150,
+      "price_des": 140,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "publisher": "Knopf",
+      "description": "A companion volume to McCarthy's recent novel \"The Passenger.\" A doctoral candidate diagnosed with paranoid schizophrenia contemplates the nature of madness.",
+      "title": "STELLA MARIS",
+      "author": "Cormac McCarthy",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780307269003.jpg",
+      "book_image_width": 335,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/0307269000?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0307269000?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780307269003?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780307269003"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSTELLA%252BMARIS%252FCormac%252BMcCarthy%252F9780307269003&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSTELLA%252BMARIS%252BCormac%252BMcCarthy"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780307269003&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSTELLA%2BMARIS"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780307269003%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSTELLA%2BMARIS%2BCormac%2BMcCarthy%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "price": 230,
+      "price_des": 220,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "publisher": "Putnam",
+      "description": "The 22nd book in the Jack Ryan series. Ryan goes behind the Berlin Wall in 1985 to investigate an East German defector.",
+      "title": "TOM CLANCY: RED WINTER",
+      "author": "Marc Cameron",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593422755.jpg",
+      "book_image_width": 332,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/0593422759?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593422759?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593422755?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593422755"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTOM%252BCLANCY%25253A%252BRED%252BWINTER%252FMarc%252BCameron%252F9780593422755&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTOM%252BCLANCY%25253A%252BRED%252BWINTER%252BMarc%252BCameron"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593422755&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTOM%2BCLANCY%253A%2BRED%2BWINTER"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593422755%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTOM%2BCLANCY%253A%2BRED%2BWINTER%2BMarc%2BCameron%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "price": 90,
+      "price_des": 79,
+      "rank_last_week": 8,
+      "weeks_on_list": 10,
+      "publisher": "Ballantine",
+      "description": "After returning to her hometown, Olivia McAfee’s son gets accused of killing his crush.",
+      "title": "MAD HONEY",
+      "author": "Jodi Picoult and Jennifer Finney Boylan",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+      "book_image_width": 328,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/1984818384?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1984818384?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781984818386?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818386"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FMAD%252BHONEY%252FJodi%252BPicoult%252Band%252BJennifer%252BFinney%252BBoylan%252F9781984818386&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DMAD%252BHONEY%252BJodi%252BPicoult%252Band%252BJennifer%252BFinney%252BBoylan"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984818386&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DMAD%2BHONEY"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984818386%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DMAD%2BHONEY%2BJodi%2BPicoult%2Band%2BJennifer%2BFinney%2BBoylan%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "price": 965,
+      "price_des": 900,
+      "rank_last_week": 11,
+      "weeks_on_list": 11,
+      "publisher": "Knopf",
+      "description": "Two friends find their partnership challenged in the world of video game design.",
+      "title": "TOMORROW, AND TOMORROW, AND TOMORROW",
+      "author": "Gabrielle Zevin",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593321201.jpg",
+      "book_image_width": 329,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/0593321200?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593321200?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593321201?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593321201"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTOMORROW%25252C%252BAND%252BTOMORROW%25252C%252BAND%252BTOMORROW%252FGabrielle%252BZevin%252F9780593321201&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTOMORROW%25252C%252BAND%252BTOMORROW%25252C%252BAND%252BTOMORROW%252BGabrielle%252BZevin"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593321201&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTOMORROW%252C%2BAND%2BTOMORROW%252C%2BAND%2BTOMORROW"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593321201%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTOMORROW%252C%2BAND%2BTOMORROW%252C%2BAND%2BTOMORROW%2BGabrielle%2BZevin%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "price": 98,
+      "price_des": 89,
+      "rank_last_week": 10,
+      "weeks_on_list": 5,
+      "publisher": "Little, Brown",
+      "description": "Ballard and Bosch bury old resentments as they go after two killers.",
+      "title": "DESERT STAR",
+      "author": "Michael Connelly",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316485654.jpg",
+      "book_image_width": 323,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/0316485659?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316485659?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316485654?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316485654"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FDESERT%252BSTAR%252FMichael%252BConnelly%252F9780316485654&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DDESERT%252BSTAR%252BMichael%252BConnelly"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316485654&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DDESERT%2BSTAR"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316485654%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DDESERT%2BSTAR%2BMichael%2BConnelly%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "price": 246,
+      "price_des": 156,
+      "rank_last_week": 13,
+      "weeks_on_list": 7,
+      "publisher": "Delacorte",
+      "description": "The 27th book in the Jack Reacher series. Reacher goes after a killer but is unaware of the bigger implications.",
+      "title": "NO PLAN B",
+      "author": "Lee Child and Andrew Child",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984818546.jpg",
+      "book_image_width": 330,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/1984818546?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1984818546?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781984818546?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818546"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FNO%252BPLAN%252BB%252FLee%252BChild%252Band%252BAndrew%252BChild%252F9781984818546&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DNO%252BPLAN%252BB%252BLee%252BChild%252Band%252BAndrew%252BChild"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984818546&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DNO%2BPLAN%2BB"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984818546%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DNO%2BPLAN%2BB%2BLee%2BChild%2Band%2BAndrew%2BChild%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "price": 430,
+      "price_des": 400,
+      "rank_last_week": 12,
+      "weeks_on_list": 6,
+      "publisher": "Atria",
+      "description": "The 29th book in the Stephanie Plum series. The man who abducted the office manager at Vinnie's Bail Bonds demands a mysterious coin in exchange for her.",
+      "title": "GOING ROGUE",
+      "author": "Janet Evanovich",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668003053.jpg",
+      "book_image_width": 329,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/1668003058?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668003058?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668003053?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668003053"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FGOING%252BROGUE%252FJanet%252BEvanovich%252F9781668003053&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DGOING%252BROGUE%252BJanet%252BEvanovich"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781668003053&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DGOING%2BROGUE"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781668003053%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DGOING%2BROGUE%2BJanet%2BEvanovich%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "rank_last_week": 9,
+      "weeks_on_list": 3,
+      "price": 1029,
+      "price_des": 1000,
+      "publisher": "St. Martin's",
+      "description": "The third book in the Dragon Heart Legacy series. Breen Siobhan Kelly confronts darkness during her first Christmas in both Talamh and Ireland.",
+      "title": "THE CHOICE",
+      "author": "Nora Roberts",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250272720.jpg",
+      "book_image_width": 329,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/1250272726?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250272726?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250272720?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250272720"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BCHOICE%252FNora%252BRoberts%252F9781250272720&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BCHOICE%252BNora%252BRoberts"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250272720&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BCHOICE"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250272720%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BCHOICE%2BNora%2BRoberts%26aff%3DNYT"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250272720&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BCHOICE"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250272720%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BCHOICE%2BNora%2BRoberts%26aff%3DNYT"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "price": 60,
+      "rank_last_week": 5,
+      "weeks_on_list": 6,
+      "publisher": "Little, Brown",
+      "description": "Detective Alex Cross and the true-crime author Thomas Tull search for a serial killer known as the Family Man.",
+      "title": "TRIPLE CROSS",
+      "author": "James Patterson",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499187.jpg",
+      "book_image_width": 331,
+      "book_image_height": 500,
+      "amazon_product_url": "https://www.amazon.com/dp/0316499188?tag=NYTBSREV-20",
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316499188?tag=NYTBSREV-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316499187?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499187"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTRIPLE%252BCROSS%252FJames%252BPatterson%252F9780316499187&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTRIPLE%252BCROSS%252BJames%252BPatterson"
+        },
+        {
+          "name": "Bookshop",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316499187&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTRIPLE%2BCROSS"
+        },
+        {
+          "name": "IndieBound",
+          "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316499187%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTRIPLE%2BCROSS%2BJames%2BPatterson%26aff%3DNYT"
+        }
+      ]
+    }
+  ]
+}

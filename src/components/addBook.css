@@ -1,0 +1,34 @@
+.container-from h3 {
+    padding: 20px;
+    text-align: center;
+    color: #2e2e2b;
+}
+form{
+    background: #ffffff42;
+    box-shadow: inset 0px 0px 13px 3px lightgrey;
+    padding: 15px;
+    margin: 0px 20px 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+form input{
+    width: -webkit-fill-available;
+    margin: 5px;
+    padding: 4px;
+    font-size: 20px;
+    color: #3f51b5;
+    text-align: center;
+    border-radius: 5px;
+    outline: 0;
+    border: 1px solid lightgray;
+}
+label{
+    width: 100px;
+    
+}
+.file{
+    width: calc(100% - 110px);
+}

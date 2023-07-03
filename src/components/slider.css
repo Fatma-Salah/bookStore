@@ -1,0 +1,9 @@
+.slider{margin: 10px;}
+.carousel-item img{
+    height: 100%;
+
+}
+.carousel-item{
+    height:calc( 90vh - 10px);
+}
+
